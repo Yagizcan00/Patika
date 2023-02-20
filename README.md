@@ -1,2 +1,1 @@
-# Patika
-PatikaSQLPractice
+# PatikaSQL
