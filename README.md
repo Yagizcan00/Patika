@@ -1,0 +1,2 @@
+# Patika
+PatikaSQLPractice-Ödev1
